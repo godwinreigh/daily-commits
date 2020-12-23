@@ -1,0 +1,16 @@
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\bin\Debug\net5.0\Text-Based RPG.exe
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\bin\Debug\net5.0\Text-Based RPG.deps.json
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\bin\Debug\net5.0\Text-Based RPG.runtimeconfig.json
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\bin\Debug\net5.0\Text-Based RPG.runtimeconfig.dev.json
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\bin\Debug\net5.0\Text-Based RPG.dll
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\bin\Debug\net5.0\ref\Text-Based RPG.dll
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\bin\Debug\net5.0\Text-Based RPG.pdb
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\Text-Based RPG.csprojAssemblyReference.cache
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\Text-Based RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\Text-Based RPG.AssemblyInfoInputs.cache
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\Text-Based RPG.AssemblyInfo.cs
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\Text-Based RPG.csproj.CoreCompileInputs.cache
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\Text-Based RPG.dll
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\ref\Text-Based RPG.dll
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\Text-Based RPG.pdb
+C:\Users\Godwin\Desktop\C#\Experiment\Text-Based RPG\obj\Debug\net5.0\Text-Based RPG.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\bin\Debug\net5.0\Certain Letter Counter.exe
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\bin\Debug\net5.0\Certain Letter Counter.deps.json
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\bin\Debug\net5.0\Certain Letter Counter.runtimeconfig.json
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\bin\Debug\net5.0\Certain Letter Counter.runtimeconfig.dev.json
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\bin\Debug\net5.0\Certain Letter Counter.dll
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\bin\Debug\net5.0\ref\Certain Letter Counter.dll
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\bin\Debug\net5.0\Certain Letter Counter.pdb
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\Certain Letter Counter.csprojAssemblyReference.cache
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\Certain Letter Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\Certain Letter Counter.AssemblyInfoInputs.cache
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\Certain Letter Counter.AssemblyInfo.cs
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\Certain Letter Counter.csproj.CoreCompileInputs.cache
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\Certain Letter Counter.dll
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\ref\Certain Letter Counter.dll
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\Certain Letter Counter.pdb
+C:\Users\Godwin\Desktop\C#\Experiment\Certain Letter Counter\obj\Debug\net5.0\Certain Letter Counter.genruntimeconfig.cache
