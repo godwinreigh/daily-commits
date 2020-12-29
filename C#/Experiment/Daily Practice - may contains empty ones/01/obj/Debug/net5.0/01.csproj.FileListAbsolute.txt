@@ -1,0 +1,16 @@
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\bin\Debug\net5.0\01.exe
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\bin\Debug\net5.0\01.deps.json
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\bin\Debug\net5.0\01.runtimeconfig.json
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\bin\Debug\net5.0\01.runtimeconfig.dev.json
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\bin\Debug\net5.0\01.dll
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\bin\Debug\net5.0\ref\01.dll
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\bin\Debug\net5.0\01.pdb
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\01.csprojAssemblyReference.cache
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\01.AssemblyInfoInputs.cache
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\01.AssemblyInfo.cs
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\01.csproj.CoreCompileInputs.cache
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\01.dll
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\ref\01.dll
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\01.pdb
+C:\Users\Godwin\Desktop\C#\C#\Experiment\Daily Practice - may contains empty ones\01\obj\Debug\net5.0\01.genruntimeconfig.cache
